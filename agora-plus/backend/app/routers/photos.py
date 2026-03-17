@@ -1,0 +1,10 @@
+# Router: photos
+# Phase: Backend Setup (Phase 2)
+# POST upload (admin), GET by event
+
+from fastapi import APIRouter, Depends
+from app.middleware.rbac import require_admin, require_member
+
+router = APIRouter()
+
+# TODO: Add route handlers per docs/app_flow.md and docs/backend_schema.md

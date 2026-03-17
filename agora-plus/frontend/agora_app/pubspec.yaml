@@ -1,0 +1,26 @@
+name: agora_app
+description: AGORA+ — UM6P club management mobile app
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  firebase_core: ^2.27.0
+  firebase_messaging: ^14.7.0
+  firebase_storage: ^11.6.0
+  stream_chat_flutter: ^8.0.0
+  # TODO: Add MSAL (Microsoft Azure AD) package for Flutter
+  # TODO: Add secure_storage for token management
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  # TODO: Add Roboto font if not relying on system default

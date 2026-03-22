@@ -5,3 +5,4 @@ backend/**/__pycache__/
 backend/*.pyc
 backend/firebase-credentials.json
 backend/firebase_credentials.json
+agora-plus/backend/firebase_credentials.json

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421524144341",
+    "project_id": "agora-plus-7e5de",
+    "storage_bucket": "agora-plus-7e5de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421524144341:android:df6abd9b2bd49c38be625c",
+        "android_client_info": {
+          "package_name": "com.agoraplus.agora_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCba3JSfEAI4ZBO7AdVi70uxWJzJ5tQo_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
